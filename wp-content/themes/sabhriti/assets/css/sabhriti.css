@@ -15,6 +15,10 @@ html {
   background-color: #cb305a !important;
 }
 
+.bg-blue{
+  background-color: #17A2B8 !important;
+}
+
 
 .pricing-header {
   max-width: 700px;
@@ -73,4 +77,10 @@ html {
 
 .card-content-body {
   color: #ffffff;
+}
+
+
+.doc-title-icon {
+  position: relative;
+  top: 5px;
 }
